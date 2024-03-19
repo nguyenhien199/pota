@@ -17,6 +17,7 @@
     "js-yaml": "^3.3.0",
     "jsonwebtoken": "^8.5.1",
     "lowdb": "^1.0.0",
+    "mysql": "^2.18.1",
     "oas3-tools": "^2.0.2"
   }
 }
